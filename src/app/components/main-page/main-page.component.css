@@ -1,0 +1,40 @@
+* {
+  font-family: "Vastago Grotesk";
+  color: #CCFFFF;
+  margin: 0;
+}
+
+.df{
+    display: flex;
+}
+
+.jc-c{
+    justify-content: center;
+}
+
+.al-c{
+    align-items: center;
+}
+
+.container{
+    height: 100vh;
+    margin: 0em 10em;
+}
+
+.row > .col-8{
+    margin: 1em;
+}
+
+.main{
+    background-color: #000F1F;
+}
+
+.title-text{
+    font-size: 4em;
+    font-weight: 900;
+}
+
+.subtitle-text{
+    font-size: 2em;
+    font-weight: 900;
+}
